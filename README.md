@@ -25,6 +25,7 @@ Website includes three web pages:
 - wpa_index.html --> Website homepage
 - sales_data.html --> Data of Vintagraph WPA data
 - archive_data.html --> Data of Library of Congress WPA collection
+- style.css --> CSS file for website
 
 Website includes these JPG images:
 - Keep Clean WPA Poster.jpg
