@@ -1,5 +1,4 @@
-# ETL_Project
-Extract, Transform, Load (ETL) Project
+# Extract, Transform, Load (ETL) Project
 
 By Katherine Faulhaber and Tim St. Onge
 
@@ -36,3 +35,9 @@ Website includes these JPG images:
 - Wild Life The National Parks Preserve All Life.jpg
 - Yellowstone 1938.jpg
 - Zion National Park Poster.jpg
+
+### 5. Other Files
+- chromedriver.exe --> Chromedriver executable for web scraping
+- README.md --> This README file
+- ETL-Salesforce-Project-Guidelines.md --> ETL Project guidelines
+- .ipynb_checkpoints --> Jupyter Notebook checkpoints
